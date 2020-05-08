@@ -1,4 +1,4 @@
-f = open('twinkle.txt', 'r')
+f = open('kasstheme.txt', 'r')
 lines = f.readlines()
 f.close()
 mystr = ' '.join([line.strip() for line in lines])
