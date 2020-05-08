@@ -1,0 +1,6 @@
+f = open('twinkle.txt', 'r')
+lines = f.readlines()
+f.close()
+mystr = ' '.join([line.strip() for line in lines])
+bytedata = bytearray.fromhex(mystr)
+print(bytedata)
