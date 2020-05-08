@@ -1,6 +1,6 @@
 # midi-music
 
-I translate sheet music to MIDI message manually and it was really stressful.
+I translate sheet music to MIDI message manually and it is really stressful.
 
 Q: So, why do you do it?
 
